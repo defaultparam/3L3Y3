@@ -1,12 +1,12 @@
 #!/usr/bin/python
 
 ### Project: 3L3Y3 Scanner
-### Author: param373r pka belikeParamjot apka TheProJ4X0N
+### Author: defaultparam
 
 ### Find me on following media:
-###### Twitter: @param373r
-###### Instagram: @param373r
-###### Medium: @param373r
+###### X: @defaultparam
+###### Instagram: @defaultparam
+###### Medium: @defaultparam
 
 from socket import *
 import optparse
