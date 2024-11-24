@@ -19,7 +19,7 @@ I tried to customize this scanner as much as possible, and made it very detailed
 
 Installing it is pretty simple... Just copy the steps down into your terminal in order to install this script.
 
-- ```git clone https://github.com/belikeParamjot/3L3Y3.git```
+- ```git clone https://github.com/defaultparam/3L3Y3.git```
 - ```cd 3L3Y3/```
 - ```pip install -r requirements.txt```
 - ```sudo cp eli.py /usr/bin/eli```
